@@ -4,7 +4,7 @@ p {
   color: rgb(15, 179, 255);
 }
 
-body {
+.body {
   margin: 0;
   font-family: sans-serif;
   font-weight: bold;
