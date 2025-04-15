@@ -22,8 +22,8 @@
 
 .item {
   display: inline-block;
-  margin: 0.1in;
+  margin: 0.05in;
   background-color: rgb(51, 51, 51);
-  border-radius: 0.01in;
+  border-radius: 0.03in;
   width:  1.5in;
 }
